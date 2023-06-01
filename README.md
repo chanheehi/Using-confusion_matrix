@@ -3,20 +3,26 @@
 <hr>
 
 ### 결과
-채팅 중 ..
-![결과](https://github.com/chanheehi/Using-confusion_matrix/assets/101696330/01c381c0-e58c-4baf-85db-066485bf2fdc)
+혼동 행렬 결과
+
+![torch_confusion_matrix](https://user-images.githubusercontent.com/101696330/216633295-66a0ca1a-2c26-455c-beaa-d60a75d368d3.png)
 <hr>
 
-### 입력 기능
-**1. 키보드 입력**
-**2. 마이크 입력**
-**3. ChatGPT 입력**
+### 세 가지 경우
+**1. string 배열**
+
+![image (1)](https://user-images.githubusercontent.com/101696330/216634583-5b5cbea5-407b-4b1a-b3b7-61f9a0df7541.png)
+
+**2. numpy 배열**
+
+![image (2)](https://user-images.githubusercontent.com/101696330/216634993-18ad65d0-9b4a-48a9-b01b-bdb81584dd02.png)
+
+**3. tensor 배열**
+
+![image (3)](https://user-images.githubusercontent.com/101696330/216635035-44ffa443-c91d-45b8-9863-b72b6d88bacd.png)
+
 <hr>
 
-### 부가 기능
-채팅 내용을 사운드로 읽어줌
+### 예시 데이터
 
-### 앞으로
-![image](https://github.com/chanheehi/Using-confusion_matrix/assets/101696330/66289e9d-a0a3-4137-9a03-10473f397ad2)
-
-위와 같은 UI를 적용할 예정
+![image (4)](https://user-images.githubusercontent.com/101696330/216635197-fce3ed44-41c6-4c19-a8c6-3470cc851b3a.png)
