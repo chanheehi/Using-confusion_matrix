@@ -1,14 +1,12 @@
 # Using-confusion_matrix
 #### 혼동 행렬(Confusion matrix)을 시각화해 검증
-<hr>
 
-### 결과
+## 결과
 혼동 행렬 결과
 
 ![torch_confusion_matrix](https://user-images.githubusercontent.com/101696330/216633295-66a0ca1a-2c26-455c-beaa-d60a75d368d3.png)
-<hr>
 
-### 세 가지 경우
+## 세 가지 경우
 **1. string 배열**
 
 ![image (1)](https://user-images.githubusercontent.com/101696330/216634583-5b5cbea5-407b-4b1a-b3b7-61f9a0df7541.png)
@@ -23,6 +21,8 @@
 
 <hr>
 
-### 예시 데이터
+## 예시 데이터
 
 ![image (4)](https://user-images.githubusercontent.com/101696330/216635197-fce3ed44-41c6-4c19-a8c6-3470cc851b3a.png)
+## 추가적으로
+본 코드와 관련한 내용을 [`블로그`](https://blog.naver.com/jc603/223004544073)에서 추가로 확인할 수 있습니다.
